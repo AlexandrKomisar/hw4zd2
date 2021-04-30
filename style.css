@@ -1,0 +1,52 @@
+body {
+  background-color: #990909;
+}
+.app-header {
+  background-color: #990909;
+  text-align: center;
+}
+.app-div {
+  background-color: #0a0a0a;
+  display: flex;
+  justify-content: space-evenly;
+}
+.app-figure p {
+  text-align: center;
+  color: #bdbdbd;
+}
+.app-tx {
+  padding: 20px;
+  font-size: 18px;
+}
+h4 {
+  margin-block-end: 0;
+  margin-block-start: 0;
+  background-color: #bdbdbd;
+  text-align: center;
+}
+.app-main {
+  display: flex;
+}
+.app-aside-right {
+  background-color: #e6e1db;
+  float: right;
+  padding: 10px;
+}
+.app-hr {
+  margin-block-end: 0;
+  margin-block-start: 3px;
+}
+.app-aside-left {
+  float: left;
+  color: #e95b11;
+  text-decoration: underline;
+  background-color: #721302;
+  padding: 10px;
+}
+.app-footer {
+  background-color: #e95b11;
+  color: #f1eded;
+  font-size: 20px;
+  text-align: center;
+  clear: both;
+}
